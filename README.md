@@ -1,7 +1,9 @@
 # ZOD-COD-Clone -> reCreating childhood game COD zombie app
 
 Engine: Unity
+
 Language: C#
+
 Developer: Just me and myself only
 
 Since this is a project that requires Unity3D, I had to relearn about spacing in Unity.
