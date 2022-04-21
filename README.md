@@ -14,14 +14,3 @@ Right now, its single player game, will be updated with local and online multipl
 
 will be back with update!
 
-
-
-
-
-
-
-
-Credits to rico345100
-
-please visit https://github.com/rico345100
-
